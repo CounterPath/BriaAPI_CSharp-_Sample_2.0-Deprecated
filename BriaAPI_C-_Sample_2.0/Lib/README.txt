@@ -1,1 +1,0 @@
-WebSocket4Net.dll has been obtained from https://websocket4net.codeplex.com/ and is the .Net45 version of the pre-compliled DLLs which are available for download from the site. It is written and maintained by Kerry Jiang and his site should be consulted for any details regarding the library or its use.
