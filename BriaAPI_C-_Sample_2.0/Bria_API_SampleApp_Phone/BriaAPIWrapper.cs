@@ -503,7 +503,7 @@ namespace Bria_API_SampleApp_Phone
 
           if (SocketClient == null)
           {
-              SocketClient = new WebSocket("wss://localhost:9002/counterpath/socketapi/v1/");
+              SocketClient = new WebSocket("wss://cpclientapi.softphone.com:9002/counterpath/socketapi/v1/");
 
               SocketClient.Error += new EventHandler<SuperSocket.ClientEngine.ErrorEventArgs>(OnSocketConnectionError);
               SocketClient.Opened += new EventHandler(OnSocketConnectionOpened);
