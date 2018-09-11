@@ -5,4 +5,4 @@ The Bria for Desktop API was originally used by CounterPath in conjunction with 
 
 CounterPath is now encouraging third-party-application developers to integrate their applications with Bria. Suggested applications range from simple functions such as enabling click-to-call from web pages, to integration with sophisticated Call Center, Customer Relationship Management (CRM) and Health Care applications.
 
-This project provides sample and convenient wrapper code to utilize this API. *Note* you need a Bria desktop (Version 4.8 or higher, 5.X recommended) application to utilize the API.
+This project provides sample and convenient wrapper code to utilize this API. *Note* you need a Bria desktop (Version 5.0 or higher, 5.3+ recommended) application to utilize the API.
