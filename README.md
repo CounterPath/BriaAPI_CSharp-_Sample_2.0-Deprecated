@@ -1,4 +1,7 @@
 # DesktopAPISample
+As Oct 5th, 2020 this sample is no longer being supported.  
+Please move to the new 3.0 Version.
+
 
 > Update Sept 24th, 2020:
 
