@@ -1,6 +1,6 @@
 # DesktopAPISample
 As Oct 5th, 2020 this sample is no longer being supported.  
-Please move to the new 3.0 Version.
+Please move to the new 3.0 Version at https://github.com/Counterpath/Bria_API_CSharp_SampleApp_3
 
 
 > Update Sept 24th, 2020:
